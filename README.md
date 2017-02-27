@@ -11,7 +11,7 @@ This example app demonstrates some interesting concepts for Node/Express Apps:
 
 ## Installation
 1. Clone git repository
-2. $ npm Installation
+2. $ npm install
 
 ## Run in Development Mode
 $ npm start
